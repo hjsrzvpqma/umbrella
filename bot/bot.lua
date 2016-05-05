@@ -226,6 +226,9 @@ config = {
       "Help",
       "Help_Html",
       "ID",
+      "GroupManager",
+      "Moderation",
+      "MemberManager",
       "IP",
       "Info",
       "Invite",
@@ -247,7 +250,7 @@ config = {
       "Welcome",
       "plugins"
       },
-    sudo_users = {90285048},
+    sudo_users = {90285047},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
