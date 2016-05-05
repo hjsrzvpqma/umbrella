@@ -247,12 +247,12 @@ config = {
       "Welcome",
       "plugins"
       },
-    sudo_users = {122774063},
+    sudo_users = {90285048},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
     	github_repo = "http://bit.ly/1RxHkzZ" --Please Don't Change The Url :(
-  	version = "CopierTeam Umbrella Cp V1.0 work"
+  	version = " Umbrella copy V1.0 work"
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
 end
